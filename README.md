@@ -1,3 +1,7 @@
+Installation modification to facilitate modification of installation path
+
+
+
 Automatic installer for [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui)
 ### Auto dowload Requirements for #yt-dlp-gui
 
