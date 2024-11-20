@@ -1,3 +1,18 @@
+新的安装方法
+运行PowerShel 执行run_setup.ps1进行安装。
+如果需要修改安装路径，请用文本文件打开run_setup.ps1这个文件。
+更改$InstallPath = "D:\Software\yt-dlp-gui-setup"中的D:\Software\yt-dlp-gui-setup这个路径到想要的路径。
+保存退出，再次运行即可。
+
+New installation method
+Run PowerShell and execute run_setup.ps1 to install.
+If you need to modify the installation path, open the run_setup.ps1 file with a text file.
+Change the path D:\Software\yt-dlp-gui-setup in $InstallPath = "D:\Software\yt-dlp-gui-setup" to the desired path.
+Save and exit, then run again.
+
+
+
+
 Automatic installer for [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui)
 ### Auto dowload Requirements for #yt-dlp-gui
 
